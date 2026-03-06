@@ -15,7 +15,9 @@ The title and framing of this piece are drawn directly from the SEC Tournament h
 ## Design Notes
 
 - Opening paragraph font size: 13px with 1.75 line height for editorial readability
+- "Beyond measure" at the close of the opening paragraph is styled in South Carolina Garnet (#73000A) to tie back to the title and brand
 - Dawn Staley callout displays as a single line at 15px with white-space: nowrap
+- SEC Tournament wins (3 vs 35) display side by side using a table layout for cross-browser reliability
 - All section toggles use consistent garnet button styling
 - Bar chart widths are proportionally calculated against the highest value in each category
 
@@ -65,7 +67,7 @@ No additional files, folders, stylesheets, or scripts are required.
 
 ## Data Source
 
-Statistics sourced from **SportRadar** via live game feed.
+Statistics sourced from **SEC Network**.
 Player headshots, if added in future iterations, should be sourced from **South Carolina Athletics** (gamecocksonline.com).
 
 ---
@@ -79,6 +81,7 @@ The voiceover excerpt featured in the opening section is taken directly from the
 ## Credits and Attributions
 
 - Dawn Staley 30-win season stat courtesy of **Lulu Kesin** · South Carolina WBB and Football Reporter, Greenville News / USA Today Sports · Exact tweet: *"With the victory over Kentucky, Dawn Staley gets her ninth 30-win season at South Carolina."*
+- SEC Tournament wins before and under Dawn Staley (3 vs 35) courtesy of **SEC Network**
 - SEC Tournament hype video quote from **@GamecockWBB** on X · All rights belong to South Carolina Women's Basketball
 - Data visualization design and strategy by **Kris Smith**
 - Built with HTML, CSS, and vanilla JavaScript · No frameworks
